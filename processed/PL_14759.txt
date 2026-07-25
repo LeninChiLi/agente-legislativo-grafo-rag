@@ -1,0 +1,557 @@
+EXPOSICIÓN DE MOTIVOS
+
+1. Fundamentos de la propuesta: problemática y necesidad de intervención
+
+estatal
+
+El presente proyecto de ley responde a una problemática que afecta
+
+simultáneamente la salud pública, el orden público y el bienestar animal en el
+
+Perú: la sobrepoblación de perros y gatos en situación de abandono y la
+
+ausencia de una política nacional articulada que permita a los gobiernos locales
+
+ofrecer servicios veterinarios esenciales de manera accesible y sostenible en el
+
+tiempo.
+
+Pese a que la Ley N.° 31311 (conocida como “Ley Cuatro Patas”) declaró la
+
+esterilización de perros y gatos como de interés público y necesidad nacional
+
+desde el 24 de julio de 2021, su implementación efectiva ha sido limitada por la
+
+falta de infraestructura adecuada, de mecanismos de financiamiento apropiados
+
+y de una articulación clara con los gobiernos locales. Diversos reportes
+
+municipales y de organizaciones de protección animal muestran que, en muchos
+
+distritos, la esterilización se realiza solo de manera esporádica, mediante
+
+campañas puntuales sin continuidad ni capacidad para cubrir la demanda real.
+
+En la práctica, los municipios se ven obligados a responder a quejas vecinales
+
+por jaurías, mordeduras, ruidos, contaminación por heces y olores, sin contar
+
+con herramientas suficientes para abordar el problema desde la raíz. Así, se
+
+termina priorizando el control reactivo (retiro de animales, sanciones aisladas) en
+
+lugar de una política integral de prevención y bienestar.
+
+1.1. Datos estadísticos oficiales sobre la población de animales de compañía
+
+A partir del segundo semestre de 2025, el Instituto Nacional de Estadística e
+
+Informática (INEI) incluyó un módulo específico sobre crianza de mascotas en la
+
+Encuesta Nacional de Hogares (ENAHO), proporcionando por primera vez datos
+
+oficiales, verificables y periódicos sobre esta realidad. Esta inclusión fue
+
+impulsada por organizaciones defensoras de animales y congresistas de
+
+diversas bancadas, lo que demuestra que existe una voluntad política
+
+transversal para abordar esta problemática.
+
+Los resultados oficiales son elocuentes:
+
+Cuadro 1. Indicadores oficiales sobre tenencia de perros y vacunación
+
+Indicador Resultado Fuente
+
+Hogares peruanos con 51,7 % INEI – ENAHO, II
+
+al menos un perro semestre 2025
+
+Tenencia en zonas 64,4 % INEI – ENAHO, II
+
+rurales semestre 2025
+
+Tenencia en hogares de 52,9 % INEI – ENAHO, II
+
+menores ingresos semestre 2025
+
+Promedio de perros por 1,8 INEI – ENAHO, II
+
+hogar semestre 2025
+
+Hogares que no 25,2 % Enapres 2024
+
+vacunaron contra rabia
+
+en el último año
+
+Proyectando estas cifras, se estima una población canina superior a los siete
+
+millones de ejemplares solo en hogares, sin contar a los animales en situación
+
+de abandono o sin dueño fijo. Diversas estimaciones técnicas, citadas por
+
+organizaciones de protección animal y gobiernos locales, indican que la
+
+población de perros y gatos callejeros en el Perú supera los seis millones de
+
+ejemplares, una cifra que tiende a crecer ante la falta de políticas de
+
+esterilización efectivas y continuas.
+
+El dato sobre vacunación antirrábica es particularmente preocupante: el 25,2 %
+
+de los hogares no vacuna a sus mascotas, exponiendo un grave riesgo para la
+
+salud pública ante la posibilidad de brotes de rabia urbana canina y otras
+
+zoonosis como leptospirosis, parasitosis y micosis. El Ministerio de Salud destina
+
+cada año recursos significativos a atender emergencias por mordeduras y a
+
+aplicar tratamientos antirrábicos humanos, gasto que podría reducirse de
+
+manera importante si existiera una red estable de servicios veterinarios públicos
+
+orientados a la prevención.
+
+1.2. Experiencias municipales existentes y vacío normativo
+
+Cuadro 2. Experiencias municipales en servicios veterinarios y albergues
+
+Municipalidad Infraestructura / Características
+
+Servicio
+
+Santiago de Surco Albergue municipal Alberga a decenas de
+
+perros y gatos
+
+rescatados, con espacio
+
+limitado frente a la
+
+demanda real.
+
+San Borja Albergue temporal Promueve adopciones
+
+mediante campañas y
+
+visitas coordinadas.
+
+San Miguel Veterinaria municipal Ofrece campañas de
+
+tenencia responsable y
+
+registro de mascotas.
+
+La Molina Veterinaria municipal Establece la
+
+esterilización como
+
+requisito para la
+
+adopción responsable.
+
+Municipalidad de Lima Albergue ‘La Casa de Espacio renovado para
+
+los Petisos’ rescate y adopción de
+
+animales de compañía.
+
+Miraflores Centro Miravet Brinda múltiples
+
+servicios veterinarios a
+
+la comunidad.
+
+San Jerónimo (Cusco) Centro Veterinario Desarrolla campañas de
+
+Municipal esterilización a costo
+
+social.
+
+Puno y Huamanga Proyectos de albergue y Inversiones municipales
+
+(Ayacucho) centros de acogida que en algunos casos
+
+superan los tres millones
+
+de soles.
+
+Estas experiencias muestran que los municipios pueden y quieren intervenir,
+
+pero lo hacen sin un marco legal uniforme, sin estándares mínimos comunes y,
+
+sobre todo, sin mecanismos de financiamiento predecibles. La presente iniciativa
+
+no parte de cero: busca articular, potenciar y dotar de estabilidad jurídica y
+
+financiera al esfuerzo descentralizado de aquellos gobiernos locales que ya se
+
+encuentran a la vanguardia en la protección de los animales de compañía.
+
+2. Sustento constitucional y respeto a las reglas presupuestales
+
+2.1. Amparo constitucional
+
+El proyecto se ampara en el artículo 2, numeral 22, de la Constitución Política
+
+del Perú, que consagra el derecho de toda persona a gozar de un ambiente
+
+equilibrado y adecuado al desarrollo de su vida. El control de la sobrepoblación
+
+animal y la prevención de zoonosis son componentes esenciales de este
+
+derecho, porque mitigan riesgos sanitarios y ambientales que afectan
+
+directamente a la población, especialmente a los sectores más vulnerables.
+
+Asimismo, se vincula con el deber del Estado de proteger la salud de las
+
+personas (artículos 7 y 9 de la Constitución), dado que una población canina y
+
+felina sin control sanitario ni reproductivo incrementa la incidencia de
+
+mordeduras, enfermedades transmisibles y situaciones de riesgo en espacios
+
+públicos.
+
+2.2. Respeto a la autonomía municipal y a las reglas presupuestales
+
+La iniciativa respeta la autonomía política, económica y administrativa de los
+
+gobiernos locales, reconocida en la Constitución y desarrollada en la Ley
+
+Orgánica de Municipalidades (Ley N.° 27972). La ley propone un marco general
+
+que incorpora nuevas funciones en materia de bienestar animal y salud pública,
+
+pero deja a cada municipalidad la decisión sobre el ritmo de implementación, el
+
+modelo de gestión (centros propios, unidades móviles, convenios) y la fijación de
+
+tarifas sociales.
+
+Desde el punto de vista presupuestal, el proyecto no impone un gasto directo al
+
+tesoro público nacional. Los artículos 4, 5 y 6 de la fórmula legal establecen
+
+mecanismos de autosostenibilidad y financiamiento que permiten a los
+
+municipios implementar los Centros de Atención Veterinaria Pública (Vet-
+
+Municipales) y los Centros de Acogida Temporal sin depender exclusivamente
+
+de transferencias adicionales del Gobierno Nacional. Entre estos mecanismos se
+
+encuentran:
+
+- La reinversión prioritaria de los ingresos por tarifas sociales en la reposición de
+
+insumos y el mantenimiento de la infraestructura.
+
+- La posibilidad de financiar proyectos de inversión mediante el mecanismo de
+
+Obras por Impuestos, de conformidad con la Ley N.° 29230.
+
+- La suscripción de convenios con universidades que cuenten con Facultades de
+
+Medicina Veterinaria y Zootecnia, para que estudiantes de los últimos ciclos y
+
+egresados realicen prácticas profesionales y servicio comunitario en los Vet-
+
+Municipales y Centros de Acogida Temporal.
+
+De este modo, la ley se configura como una norma habilitante y organizativa,
+
+más que como una ley de gasto, y resulta compatible con las reglas
+
+presupuestales vigentes.
+
+3. Relación con el marco normativo vigente
+
+El proyecto se articula con varias normas ya existentes, que reconoce y
+
+desarrolla:
+
+- La Ley N.° 30407, Ley de Protección y Bienestar Animal, que establece
+
+principios y obligaciones generales en materia de trato digno y prohibición de
+
+maltrato, pero no desarrolla un sistema específico de servicios veterinarios
+
+municipales ni de centros de acogida temporal.
+
+- La Ley N.° 31311, que prioriza la esterilización de perros y gatos como
+
+componente de la política nacional de salud pública, cuyo despliegue territorial
+
+resulta limitado sin una red de servicios municipales que pueda ejecutar
+
+campañas de manera continua.
+
+- La Ley N.° 27972, Ley Orgánica de Municipalidades, a la que se incorpora un
+
+nuevo numeral en el artículo 80, precisando las funciones municipales en
+
+materia de centros veterinarios públicos, unidades móviles y centros de acogida.
+
+- El Decreto Supremo N.° 006-2002-SA, Reglamento de la Ley que regula el
+
+Régimen Jurídico de Canes, en aquello que resulta compatible con un enfoque
+
+moderno de bienestar animal y salud pública.
+
+4. Técnica legislativa adoptada
+
+La técnica legislativa del proyecto se basa en cuatro decisiones centrales:
+
+- Reconocer la competencia municipal en materia de tenencia responsable,
+
+control poblacional, prevención de zoonosis y bienestar animal, incorporando
+
+esta función de manera expresa en la Ley Orgánica de Municipalidades.
+
+- Definir un catálogo básico de servicios que deberán ofrecer los Centros de
+
+Atención Veterinaria Pública (consultas preventivas, esterilización, vacunación,
+
+desparasitación, registro e identificación), priorizando la esterilización quirúrgica
+
+como estrategia principal de control poblacional, en línea con la Ley N.° 31311.
+
+- Regular los Centros de Acogida Temporal como establecimientos municipales
+
+con estándares mínimos de infraestructura, sanidad y bienestar animal, bajo
+
+responsabilidad de médico veterinario colegiado y habilitado.
+
+- Diseñar un conjunto de mecanismos de financiamiento que permitan la
+
+autosostenibilidad progresiva de estos servicios, sin trasladar un costo directo al
+
+tesoro público nacional.
+
+5. Efectos de la vigencia de la norma sobre la legislación nacional
+
+De conformidad con el artículo 75 del Reglamento del Congreso, la presente
+
+sección detalla los efectos de la ley sobre el ordenamiento jurídico vigente.
+
+5.1 Normas que se complementan o desarrollan
+
+La ley complementa y desarrolla la Ley N.° 30407, al pasar del reconocimiento
+
+abstracto del bienestar animal a la creación de instrumentos concretos (centros
+
+veterinarios municipales, unidades móviles, centros de acogida temporal) que
+
+permiten hacer efectivos sus principios en el territorio.
+
+Asimismo, desarrolla la Ley N.° 31311, al proporcionar a los gobiernos locales
+
+un marco funcional y financiero para ejecutar campañas de esterilización
+
+continua y no solo acciones aisladas. La esterilización deja de ser un mandato
+
+programático y se traduce en servicios concretos accesibles a la población.
+
+En el ámbito de la organización territorial, la ley modifica la Ley N.° 27972 para
+
+incorporar nuevas funciones municipales, alineadas con la tendencia
+
+internacional de considerar a los gobiernos locales como actores clave en la
+
+gestión de la salud pública y del bienestar animal.
+
+5.2 Normas que no se modifican ni derogan
+
+La ley no deroga de manera expresa ninguna norma nacional. Tampoco altera el
+
+contenido esencial de la Ley N.° 30407 ni de la Ley N.° 31311; por el contrario,
+
+las refuerza. En cuanto al Régimen Jurídico de Canes regulado por decreto
+
+supremo, éste se mantiene vigente en todo aquello que no se oponga a los
+
+principios de bienestar animal y a las disposiciones específicas de la nueva ley.
+
+5.3 Adecuación de normas subnacionales y derogación tácita
+
+La Disposición Complementaria Final Primera establece que las disposiciones
+
+municipales o sectoriales deberán adecuarse a la presente ley, quedando
+
+derogadas tácitamente aquellas que se le opongan, en particular las que
+
+autoricen métodos de control poblacional lesivos o el funcionamiento de perreras
+
+sin estándares de bienestar animal.
+
+Ello implica que las ordenanzas municipales que actualmente permitan la
+
+eliminación de animales mediante métodos crueles o la reclusión en espacios
+
+insalubres deberán ser revisadas y modificadas dentro del plazo señalado en la
+
+ley. Esta adecuación fortalece el carácter vinculante de la Ley N.° 30407 y alinea
+
+la normativa local con los estándares mínimos de bienestar animal.
+
+Desde una perspectiva sistémica, la norma se inserta de manera armónica en el
+
+bloque de constitucionalidad y en el conjunto de leyes ordinarias sobre salud
+
+pública, medio ambiente y bienestar animal, cerrando vacíos pero sin generar
+
+contradicciones.
+
+6. Análisis costo‑beneficio
+
+En cumplimiento del artículo 75 del Reglamento del Congreso, se presenta un
+
+análisis cualitativo y cuantitativo de los costos y beneficios esperados de la ley,
+
+con énfasis en su impacto sobre la salud pública, el presupuesto municipal y la
+
+ciudadanía.
+
+6.1 Horizonte temporal y universo de referencia
+
+Se considera un horizonte inicial de implementación de cinco (5) años, período
+
+dentro del cual los gobiernos locales podrán ir incorporando gradualmente
+
+Centros de Atención Veterinaria Pública, unidades móviles y centros de acogida
+
+temporal, de acuerdo con su capacidad presupuestal y priorización.
+
+El universo de referencia está constituido por los gobiernos locales distritales y
+
+provinciales del país, especialmente aquellos con altos índices de población
+
+canina y felina en situación de abandono y con antecedentes de problemas
+
+recurrentes de zoonosis o quejas vecinales por animales callejeros.
+
+6.2 Costos esperados y mecanismos de financiamiento
+
+La ley reconoce que la implementación de Vet-Municipales y Centros de Acogida
+
+Temporal requiere inversiones en infraestructura, equipamiento y personal, que
+
+pueden ser significativas para algunos municipios. Sin embargo, establece
+
+mecanismos claros para mitigar este impacto:
+
+- Los gobiernos locales pueden fijar tarifas sociales para los servicios
+
+veterinarios, suficientes para cubrir parcialmente los costos de insumos,
+
+medicamentos y mantenimiento, sin perder el carácter accesible del servicio.
+
+- Los ingresos obtenidos por estas tarifas deben ser reinvertidos prioritariamente
+
+en el propio sistema Vet-Municipal, asegurando su sostenibilidad.
+
+- Los proyectos de inversión en infraestructura pueden ser financiados a través
+
+del mecanismo de Obras por Impuestos, permitiendo que empresas privadas
+
+ejecuten y financien centros veterinarios y de acogida a cambio de créditos
+
+tributarios, siempre que dichos proyectos estén alineados con los planes de
+
+desarrollo concertado y la normativa vigente.
+
+- Los convenios con universidades reducen significativamente los costos de
+
+personal calificado, al incorporar a estudiantes y egresados en prácticas
+
+supervisadas, sin desnaturalizar la calidad del servicio.
+
+En este sentido, la ley no establece una obligación de gasto directo para el
+
+Gobierno Nacional ni crea un nuevo programa presupuestal. Los costos se
+
+asumen principalmente a nivel municipal, con herramientas para que cada
+
+gobierno local pueda dimensionar su inversión en función de su realidad y de la
+
+priorización que otorgue a la problemática.
+
+6.3 Beneficios en salud pública y bienestar ciudadano
+
+Los beneficios esperados de la ley son amplios y se manifiestan en varios
+
+niveles:
+
+- En salud pública, el fortalecimiento de la vacunación, desparasitación y control
+
+reproductivo reduce el riesgo de brotes de rabia urbana, leptospirosis y otras
+
+zoonosis, así como la incidencia de mordeduras. Estudios del Banco Mundial y
+
+de organismos de salud pública han señalado que cada dólar invertido en
+
+programas de control poblacional y sanitario de animales de compañía puede
+
+ahorrar varios dólares en gastos de salud humana, atención de emergencias y
+
+tratamientos.
+
+- En seguridad ciudadana y convivencia, la reducción de jaurías y de animales
+
+en situación de abandono disminuye conflictos vecinales, accidentes de tránsito
+
+asociados a animales en la vía pública y percepciones de inseguridad en
+
+parques y espacios comunes.
+
+- En bienestar animal, la existencia de centros de acogida temporal y servicios
+
+veterinarios accesibles permite rescatar, tratar y reinsertar en hogares a
+
+animales que, de otro modo, permanecerían en la calle o serían víctimas de
+
+maltrato.
+
+- En términos económicos indirectos, la mejora de la imagen urbana y de la
+
+calidad de vida en los barrios puede influir positivamente en actividades como el
+
+turismo, el comercio local y la valorización del espacio público.
+
+6.4 Relación costo‑beneficio
+
+Aunque resulta complejo cuantificar con exactitud todos los beneficios en
+
+términos monetarios, la experiencia internacional y la información disponible
+
+permiten afirmar que la relación costo‑beneficio de una política de control
+
+poblacional basada en la esterilización, la vacunación y la atención veterinaria
+
+preventiva es claramente favorable.
+
+El costo de no hacer nada —es decir, mantener la situación actual de
+
+sobrepoblación, baja cobertura de vacunación y respuestas reactivas— se
+
+traduce en mayores gastos para el sistema de salud, mayores costos para los
+
+municipios (retiro de animales, limpieza, atención de quejas) y un deterioro
+
+sostenido del bienestar ciudadano y animal.
+
+Frente a ello, la inversión municipal en Vet-Municipales y Centros de Acogida
+
+Temporal, apoyada por mecanismos de autosostenibilidad y financiamiento
+
+innovador, representa un uso razonable y eficiente de los recursos públicos,
+
+coherente con el principio de prevención en salud y con los estándares
+
+modernos de protección animal.

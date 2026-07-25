@@ -1,0 +1,24 @@
+{
+  "name": "agente-legislativo-grafo-rag",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "build:index": "python scripts/build_rag_index.py --pdf-dir ../proyecto_ley --output src/data/rag-index.json --processed-dir processed",
+    "load:graph": "node scripts/load_graph.mjs"
+  },
+  "dependencies": {
+    "next": "^15.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "neo4j-driver": "^5.28.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}
